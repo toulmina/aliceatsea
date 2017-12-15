@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Alice At Sea</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--importing jQuery script-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- This website uses Bootstrap JS and CSS through links to MaxCDN's CDN supported version-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- importing custom stylesheet-->
+    <link rel="stylesheet" type="text/css" href="alice.css">
+    
+    <!-- importing stylesheet for Animate-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+    <!-- importing custom javascript file-->
+    <script src="alice.js" type="text/javascript"></script>
+  </head>
+
+<body>
+
+  <!--This is the jumbotron container for the grid in Bootstrap-->
+  <div class="jumbotron">
+    <!--This is the container for the grid in Bootstrap-->
+    <div class="container-fluid">
+
+      <!--This is the div for the left hand welcome message and subheading-->
+      <div class="row">
+        <div class="col-sm-12" id="welcome-box">
+  		 		<h2 id="header-text">Hello Alice!</h2>
+  		 		<h5 id="info-text">This is a little site that exists for three reasons.</h5>
+        </div>	
+  	  </div>
+
+      <div class="row">
+        <div class="col-sm-3">
+           <img id="image1" src= "fish1.png">
+        </div>
+
+        <div class="col-sm-9 main-div">
+          <h4>Interesting Readings</h4>
+          <h6> Click the button to get a random reading recommendation (article, poem, etc). I'll update this list every 2-3 weeks while you are aboard. </h6>
+          <button id="readings-button"> Click Me! </button><br/><br/>
+          <a id="reading-link" href="" target="_blank"><h6></h6></a>
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="col-sm-9 main-div">
+          <h4 class="card-title">Positive Affirmations</h4>
+          <h6> Everyone needs a pick me up sometimes. Click the button here for a random reason why you rule.</h6>
+
+          <button id="affirmations-button"> Click Me! </button><br/><br/>
+          <h6 id="affirmations-text"></h6>
+        </div>
+
+        <div class="col-sm-3">
+          <img id="image1" src= "fish3.png">
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="col-sm-3">
+          <img id="image1" src= "fish2.png">
+        </div>
+        <div class="col-sm-9 main-div">
+          <h4 class="card-title">Track what you need!</h4>
+          <h6> Think of anything you'd like in the post? Just fill it out here to keep track and then send me an email with the list! I'll send you something every 2-3 weeks while you are on the ship! </h6>
+          <input id="input-text" type="text"> </input>
+          <button id="submit-button">Submit!</button>
+          <h6 id="confirmation-text"></h6>
+        </div>
+      </div>
+
+
+
+     </div>	
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+
+
+.jumbotron {
+    background-color: lightblue;
+    height: 200vh;
+    margin:0;
+}
+
+.container-fluid{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+input {
+	background-color:lightgrey;
+}
+
+#welcome-box {
+text-align: center;
+}
+
+.main-div{
+	background-color:white;
+	padding: 2%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#image1{
+	width:100%;
+}
+
+
+.row {
+	padding-bottom: 5%;
+	margin-left:5%;
+	margin-right:5%;
+}
+
+button{
+	color:white;
+	background-color:black;
+	font-family: Roboto, sans-serif;
+}
+
+.remove-item{
+	margin-left:5%;
+}
