@@ -3,7 +3,7 @@ var readings = {
         {
             "name": "The Empathy Exams",
             "url": "https://believermag.com/the-empathy-exams/",
-
+        },
         {
            "name": "Life in Chains: Finding Home at Taco Bell",
             "url": "https://www.eater.com/2014/11/5/7155501/life-in-chains-kfc-taco-bell",
