@@ -2,7 +2,7 @@ var readings = {
     "titles": [   
         {
             "name": "The Empathy Exams",
-            "url": "https://believermag.com/the-empathy-exams/"
+            "url": "https://believermag.com/the-empathy-exams/",
 
         {
            "name": "Life in Chains: Finding Home at Taco Bell",
