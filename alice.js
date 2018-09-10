@@ -1,60 +1,59 @@
 var readings = {
     "titles": [   
         {
-            "name": "Dee Dee Wanted Her Daughter To Be Sick, Gypsy Wanted Her Mom To Be Murdered",
-            "url": "https://www.buzzfeed.com/michelledean/dee-dee-wanted-her-daughter-to-be-sick-gypsy-wanted-her-mom?utm_term=.rmM2G3Z7a#.kgGAymxZJ",
-        },  
+            "name": "The Empathy Exams",
+            "url": "https://believermag.com/the-empathy-exams/"
 
         {
-           "name": "4chan: The Skeleton Key to the Rise of Trump",
-            "url": "https://medium.com/@DaleBeran/4chan-the-skeleton-key-to-the-rise-of-trump-624e7cb798cb#.egqhi4qcr",
+           "name": "Life in Chains: Finding Home at Taco Bell",
+            "url": "https://www.eater.com/2014/11/5/7155501/life-in-chains-kfc-taco-bell",
         },
         {
-           "name": "The Secret Life of Urban Crows",
-            "url": "https://www.seattlemet.com/articles/2017/5/17/the-secret-life-of-urban-crows",
+           "name": "Boozeability: The Rise of Drunk User Testing",
+            "url": "http://uxpamagazine.org/boozeability/",
         },
         {
            "name": "Playing the Workaholic on Social Media",
             "url": "https://www.theatlantic.com/technology/archive/2016/11/playing-the-workaholic-on-social-media/507830/",
         },
         {
-           "name": "Internetting with Amanda Hess",
-            "url": "https://www.nytimes.com/interactive/2017/11/28/arts/internetting-with-amanda-hess.html",
+           "name": "They don’t own homes. They don't have kids. Why millennials are plant addicts",
+            "url": "http://www.latimes.com/home/la-hm-millennials-plant-parents-20180724-story.html",
         },
         {
-           "name": "Long Live the Group Chat",
-            "url": "https://theoutline.com/post/2315/long-live-the-group-chat",
+           "name": "Playing the Workaholic on Social Media",
+            "url": "https://www.theatlantic.com/technology/archive/2016/11/playing-the-workaholic-on-social-media/507830/",
         },
         {
-           "name": "Everybody lies: how Google search reveals our darkest secrets",
-            "url": "https://www.theguardian.com/technology/2017/jul/09/everybody-lies-how-google-reveals-darkest-secrets-seth-stephens-davidowitz?utm_source=esp&utm_medium=Email&utm_campaign=GU+Today+USA+-+Collections+2017&utm_term=234308&subid=17283803&CMP=GT_US_collection",
+           "name": "The Secrets of the Wood Wide Web",
+            "url": "https://www.newyorker.com/tech/elements/the-secrets-of-the-wood-wide-web",
         },
         {
-           "name": "Metamorphosis:The Late Style of Chuck Close",
-            "url": "http://reprints.longform.org/metamorphosis",
+           "name": "This is Water by David Foster Wallace",
+            "url": "https://fs.blog/2012/04/david-foster-wallace-this-is-water/",
         },
         {
-           "name": "Folk Models of Home Computer Security",
-            "url": "https://drive.google.com/file/d/1thtgOUGXQUycj6NOt11iG3zXfQf5SzF8/view?usp=sharing",
+           "name": "Text of J.K. Rowling’s speech at Harvard Graduation",
+            "url": "https://news.harvard.edu/gazette/story/2008/06/text-of-j-k-rowling-speech/",
         },
         {
-           "name": "The Best ‘Ask Polly’ Advice Columns of 2017",
-            "url": "https://www.thecut.com/2017/12/9-best-ask-polly-advice-columns-of-2017.html",
+           "name": "The Toynbee Convector",
+            "url": "https://kwarc.info/teaching/TDM/Bradbury.pdf",
         },
         ]
 }
 
-var affirmations = ["You are the craftiest person I know!", 
-"You are amazing at taking care of people", 
-"You are wicked smart. I feel I can ask you anything!", 
-"Your hair is the most beautiful hair in the world", 
-"You learn so quickly. I can play any board game with you and you will whip my butt", 
-"You are an incredibly thoughtful person",
-"You are so good at keeping correspondence with people",
-"You are a masterful maker and a conscious consumer", 
-"You are extremely capable. If I could bring one thing to a desert island, it would be an Alice", 
-"You always have the best book and candy recommendations!", 
-"You aren't afraid of lots of hugs! I love seeing your lovey side"]
+var affirmations = ["You are the cooler than the flip side of the pillow!", 
+"Your calendar goes straight from March 31st to April 2nd; no one fools you.", 
+"You are a genius, unrecognized in your own time", 
+"Even if you were cloned, you'd still be one of a kind. And the better looking one.", 
+"You're smarter than Google and Mary Poppins combined.", 
+"Your face makes other people ugly.",
+"Are you a beaver, because damn.",
+"You know what's awesome? Chocolate cake, oh and your face", 
+"They say Disneyland is the happiest place on earth. Well apparently, no one has ever been standing next to you.", 
+"If I’m vinegar, then you must be baking soda. Because you make me feel all bubbly inside!", 
+"Some kids piss their name in the snow. You can piss your name into concrete."]
 
 
 /*** Functions ***/
